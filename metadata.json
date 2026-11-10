@@ -1,0 +1,6 @@
+{
+  "name": "VoloX Dynamic Island 1.0",
+  "description": "OxygenOS & iOS-inspired Dynamic Island overlay suite and complete Android Studio project for Realme 9i 5G (Android 14).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
