@@ -1,0 +1,9 @@
+<resources>
+    <color name="volox_black">#000000</color>
+    <color name="volox_dark_surface">#0D1117</color>
+    <color name="volox_accent">#00E676</color>
+    <color name="volox_cyan">#00D2FF</color>
+    <color name="volox_border">#26FFFFFF</color>
+    <color name="volox_text_primary">#FFFFFF</color>
+    <color name="volox_text_secondary">#9E9E9E</color>
+</resources>
